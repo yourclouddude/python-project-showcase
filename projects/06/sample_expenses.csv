@@ -1,0 +1,4 @@
+date,amount,category,note
+2026-10-01,12.50,Food,sample
+2026-10-02,7.25,Travel,sample
+2026-10-03,nan,Food,invalid example

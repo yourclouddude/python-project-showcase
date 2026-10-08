@@ -1,0 +1,12 @@
+{
+  "name": "Sample Learner",
+  "headline": "Python developer in training",
+  "about": "I build and explain tested Python projects.",
+  "projects": [
+    {
+      "title": "Persistent Book API",
+      "description": "SQLite persistence and validated requests.",
+      "url": "https://example.com/project"
+    }
+  ]
+}
