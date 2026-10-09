@@ -79,6 +79,9 @@ Tests cover invalid money, malformed CSV, identity and persistence, HTTP validat
 
 ## Learning and limits
 
+Each of these four projects includes `PRACTICE.md`, a starter, hints, five checks and a separate worked answer. Implement `practice_starter.py` and run `python practice_checks.py` in that folder. Compare with `python practice_checks.py --reference` after attempting. The untouched starter intentionally fails. **20 worked-answer practice checks passed locally on 9 October 2026**; see [practice-validation.json](practice-validation.json). These are code checks, not measured human learning outcomes.
+
+
 Predict the fixture output before running it. Change one requirement, reproduce a failure and document why a validation rule exists. Credit any help and explain your own changes.
 
 These are local teaching cores. The API has no authentication/authorization; protected multi-user deployment is an extension. Other OS/Python combinations and public deployments are not claimed as validated. Sample identity and links are deliberate placeholders. Optional extensions in the project READMEs are exercises, not delivered features.

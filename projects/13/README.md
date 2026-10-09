@@ -38,3 +38,8 @@ Runtime checked: Windows x64, Python 3.12.14, 8 October 2026. This project passe
 
 ## Official reference
 [FastAPI request bodies](https://fastapi.tiangolo.com/tutorial/body/)
+
+
+## Guided practice
+
+See [PRACTICE.md](PRACTICE.md). Implement `practice_starter.py`, run `python practice_checks.py`, then compare `practice_reference.py` using `python practice_checks.py --reference`. The untouched starter intentionally fails until you implement it.

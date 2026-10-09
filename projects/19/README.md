@@ -40,3 +40,8 @@ PDF uses ReportLab; Jinja2 renders a separate HTML preview. Native WeasyPrint se
 
 ## Official reference
 [FastAPI forms](https://fastapi.tiangolo.com/tutorial/request-forms/)
+
+
+## Guided practice
+
+See [PRACTICE.md](PRACTICE.md). Implement `practice_starter.py`, run `python practice_checks.py`, then compare `practice_reference.py` using `python practice_checks.py --reference`. The untouched starter intentionally fails until you implement it.

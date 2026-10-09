@@ -38,3 +38,8 @@ Runtime checked: Windows x64, Python 3.12.14, 8 October 2026. This project passe
 
 ## Official reference
 [GitHub Pages publishing source](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+
+
+## Guided practice
+
+See [PRACTICE.md](PRACTICE.md). Implement `practice_starter.py`, run `python practice_checks.py`, then compare `practice_reference.py` using `python practice_checks.py --reference`. The untouched starter intentionally fails until you implement it.
